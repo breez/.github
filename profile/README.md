@@ -8,9 +8,9 @@ The Breez SDK provides developers with an end-to-end solution for integrating se
 
 To provide the best experience for their end-users, developers can choose between the following implementations:
 
-- [Breez SDK - Nodeless *(Spark Implementation)*](https://sdk-doc-spark.breez.technology/)
-- [Breez SDK - Nodeless *(Liquid Implementation)*](https://sdk-doc-liquid.breez.technology/)
+- [Breez SDK - Spark](https://sdk-doc-spark.breez.technology/)
+- [Breez SDK - Liquid](https://sdk-doc-liquid.breez.technology/)
 
 ## Glow
 
-[Glow](https://github.com/breez/glow-web) is a PWA built with the [Breez SDK - Nodeless](https://sdk-doc-spark.breez.technology/), showcasing best practices for delivering a frictionless bitcoin experience — and is available to partners as a white-label solution. The app demonstrates how to design intuitive UI and UX with the [Breez SDK](https://sdk-doc-spark.breez.technology/), and offer end-users self-custodial Lightning — with no channels or setup fees — so they can send and receive bitcoin out-of-the-box.
+[Glow](https://github.com/breez/glow-web) is a PWA built with the [Breez SDK - Spark](https://sdk-doc-spark.breez.technology/), showcasing best practices for delivering a frictionless bitcoin experience — and is available to partners as a white-label solution. The app demonstrates how to design intuitive UI and UX with the [Breez SDK](https://sdk-doc-spark.breez.technology/), and offer end-users self-custodial Lightning — with no channels or setup fees — so they can send and receive bitcoin out-of-the-box.
