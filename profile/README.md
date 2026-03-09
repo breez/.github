@@ -13,4 +13,4 @@ To provide the best experience for their end-users, developers can choose betwee
 
 ## Glow
 
-[Glow](https://github.com/breez/glow-web) is a PWA built with the [Breez SDK - Spark](https://sdk-doc-spark.breez.technology/), showcasing best practices for delivering a frictionless bitcoin experience — and is available to partners as a white-label solution. The app demonstrates how to design intuitive UI and UX with the [Breez SDK](https://sdk-doc-spark.breez.technology/), and offer end-users non-custodial Lightning — with no channels or setup fees — so they can send and receive bitcoin out-of-the-box.
+[Glow](https://github.com/breez/glow-web) is a PWA built with the [Breez SDK - Spark](https://sdk-doc-spark.breez.technology/), showcasing best practices for delivering a frictionless instant bitcoin experience and is available to partners as a white-label solution. The app demonstrates how to design intuitive UI and UX with the [Breez SDK](https://sdk-doc-spark.breez.technology/).
