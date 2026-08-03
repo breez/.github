@@ -1,15 +1,10 @@
 # About Breez
 
-[Breez](https://breez.technology/) is bringing instant, non-custodial bitcoin to apps and services with the free and open-source Breez SDK.
+[Breez](https://breez.technology/) is bringing instant, non-custodial bitcoin and stablecoins to apps and services with the free and open-source Breez SDK.
 
-## The Breez SDK
+## Breez SDK
 
-The Breez SDK provides developers with an end-to-end solution for integrating instant, non-custodial bitcoin into their apps and services. It eliminates the need for third parties, simplifies the complexities of Bitcoin and Lightning, and enables seamless onboarding for billions of users to the future of peer-to-peer.
-
-To provide the best experience for their end-users, developers can choose between the following implementations:
-
-- [Breez SDK - Spark](https://sdk-doc-spark.breez.technology/)
-- [Breez SDK - Liquid](https://sdk-doc-liquid.breez.technology/)
+The [Breez SDK](https://sdk-doc-spark.breez.technology/) provides developers with an end-to-end solution for integrating instant, non-custodial bitcoin and stablecoins into their apps and services. It eliminates the need for third parties, simplifies the complexities of Bitcoin and Lightning, and enables seamless onboarding for billions of users to the future of value transfer.
 
 ## Glow
 
