@@ -1,4 +1,4 @@
-![Breez](https://breez.technology/open-graph-home.jpg)
+![Breez](https://breez.technology/open-graph-global-money.jpg)
 
 # About Breez
 
